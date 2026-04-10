@@ -38,6 +38,12 @@ http://localhost:3000
 - Database relationships
 - Billing system logic
 - Frontend-backend integration
+- 
+## 📸 Project Preview
+![Screenshot1](img1r.png)
+![Screenshot2](img2r.png)
+![Screenshot1](img3r.png)
+![Screenshot2](img4r.png)
 
 ## 👩‍💻 Author
 Siddhi Gandhi
